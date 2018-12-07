@@ -1,9 +1,9 @@
-defmodule TestCredit.MixProject do
+defmodule RetrieveLolz.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :test_credit,
+      app: :retreive_lolz,
       version: "0.1.0",
       elixir: "~> 1.7",
       start_permanent: Mix.env() == :prod,

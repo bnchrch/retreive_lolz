@@ -1,8 +1,8 @@
-defmodule TestCreditTest do
+defmodule RetrieveLolzTest do
   use ExUnit.Case
-  doctest TestCredit
+  doctest RetrieveLolz
 
   test "greets the world" do
-    assert TestCredit.hello() == :world
+    assert RetrieveLolz.hello() == :world
   end
 end

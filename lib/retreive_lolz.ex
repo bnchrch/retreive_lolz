@@ -1,6 +1,6 @@
-defmodule TestCredit do
+defmodule RetrieveLolz do
   @moduledoc """
-  Documentation for TestCredit.
+  Documentation for RetrieveLolz.
   """
 
   use HTTPoison.Base

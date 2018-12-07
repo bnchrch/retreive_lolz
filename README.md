@@ -1,4 +1,4 @@
-# TestCredit
+# RetrieveLolz
 Retrieves all lol cats from site.
 
 
@@ -14,5 +14,5 @@ iex -S mix
 
 Then once in the terminal run
 ```
-TestCredit.main(6)
+RetrieveLolz.main(6)
 ```
